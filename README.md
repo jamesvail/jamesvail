@@ -4,4 +4,5 @@
 - Computer Science Major & Cybercrime Major
 - Interests: Data Analysis & Wrangling, Software Engineering, & Cybersecurity
 - Current Proficient Languages 10/11/2023: Java, Python, SQL, C
+- Current Certifications: **SQL** (Data Wrangling with Tableu) and **Python** (Data Wrangling and Graphical Representations)
 - Areas of contact: James.vail@scranton.edu OR https://www.linkedin.com/in/james-vail-a30a27256/)https://www.linkedin.com/in/james-vail-a30a27256/
